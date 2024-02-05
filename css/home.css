@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   --first-color: #ffa20a;
-  --first-color-alt: #ffd76d;
+  
   --title-color: #393939;
   --text-color: #707070;
   --text-color-light: #A6A6A6;
@@ -102,7 +102,7 @@ img{
 
 .section-title{
   font-size: var(--h1-font-size);
-  color: var(--title-color);
+  color: #393939;
   margin-bottom: var(--mb-3);
 }
 
@@ -219,7 +219,7 @@ img{
 }
 
 .scrolltop:hover{
-  background-color: var(--first-color-alt);
+  background-color: var(#ffd76d);
 }
 
 .scrolltop__icon{
@@ -250,7 +250,7 @@ img{
 
 .home__subtitle{
   font-size: var(--h1-font-size);
-  color: var(--title-color);
+  color: #393939;
   margin-bottom: var(--mb-4);
 }
 
@@ -292,7 +292,7 @@ img{
 }
 
 .button:hover{
-  background-color: var(--first-color-alt);
+  background-color: var(#ffd76d);
 }
 
 /*========== ABOUT ==========*/
